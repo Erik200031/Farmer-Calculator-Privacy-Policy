@@ -245,9 +245,24 @@ If you make a request, we have one month to respond to you. If you would like to
 We do not sell the Personal Information of our users.
 For more information about these rights, please contact us.
 
+**What We Collect & Why**  
+- **Email Address**: Used as a unique identifier to securely store your app-related data (e.g., preferences, saved content).  
+- **App Data**: Information you generate within the app (e.g., settings, activity history) is linked to your email for cross-device access.  
+
+**Purpose**: This allows you to:
+  - Log out and later recover your data by signing back in.  
+  - Delete the app and retain data for future use (unless manually deleted).
+
+**Your Rights**  
+- **Logout**: Your data remains stored but is disassociated from your device until you log back in.  
+- **Permanent Deletion**: To erase all data linked to your email, contact us at [ero.stepanyan.00@bk.ru] or use the in-app "Delete Account" feature.
+
+**How We Protect Your Data**  
+- We do not share your email or app data with third parties unless required by law.
 
 Contact Us
 
 Don't hesitate to contact us if you have any questions.
 
  -Via Email:  ero.stepanyan.00@bk.ru
+
